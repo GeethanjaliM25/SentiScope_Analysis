@@ -23,10 +23,6 @@ AI-Powered Sentiment Analysis Platform using Machine Learning & Natural Language
 
 ---
 
-<h2 align="center">🌐 Try Live Demo</h2>
-
-<p align="center">
-
 🚀 Experience the SentiScope AI platform in action:
 
 <br><br>
