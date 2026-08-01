@@ -5,13 +5,50 @@ AI-Powered Sentiment Analysis Platform using Machine Learning & Natural Language
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=AI+Powered+Sentiment+Analysis;Machine+Learning+%2B+NLP;Positive+%7C+Negative+%7C+Neutral+%7C+Irrelevant;Interactive+Analytics+Dashboard;Built+for+Real-World+Sentiment+Insights" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=AI+Powered+Sentiment+Analysis;Machine+Learning+%2B+NLP;Positive+%7C+Negative+%7C+Neutral+%7C+Irrelevant;Interactive+Analytics+Dashboard;Transforming+Text+Into+Insights" alt="Typing SVG" />
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-Programming-blue?style=for-the-badge&logo=python"/>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-AI-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/NLP-Text%20Analytics-green?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Developer-Geethanjali%20M-purple?style=for-the-badge"/>
+
 </p>
 
 
 ---
 
-## 🎯 About The Project
+<h2 align="center">🌐 Try Live Demo</h2>
+
+<p align="center">
+
+🚀 Experience the SentiScope AI platform in action:
+
+<br><br>
+
+<a href="http://localhost:8080/">
+<img src="https://img.shields.io/badge/Launch%20SentiScope%20AI-Live%20Demo-36BCF7?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+</p>
+
+
+---
+
+## 👩‍💻 Developed By
+
+**Geethanjali M**  
+🎓 B.E. Artificial Intelligence  
+💡 Machine Learning | NLP | Data Science Enthusiast  
+
+---
+
+# 🎯 About The Project
 
 SentiScope AI is an intelligent sentiment analysis platform designed to classify textual content into four sentiment categories:
 
@@ -20,104 +57,117 @@ SentiScope AI is an intelligent sentiment analysis platform designed to classify
 - 😐 Neutral
 - 🚫 Irrelevant
 
-The platform leverages Machine Learning and Natural Language Processing techniques to analyze user-provided text and generate accurate sentiment predictions. It transforms raw textual data into meaningful insights that can assist businesses, researchers, and analysts in understanding public opinion and customer feedback.
+The platform uses Machine Learning and Natural Language Processing techniques to analyze user-generated text and provide accurate sentiment predictions.
 
-The system combines predictive analytics with an interactive dashboard, enabling users to visualize sentiment trends, distributions, and overall sentiment performance in a user-friendly environment.
+It converts unstructured text data into meaningful insights that help businesses, researchers, and analysts understand public opinions, customer feedback, and emotional trends.
+
+The system integrates an AI prediction engine with an interactive dashboard to deliver real-time sentiment analysis and visualization in a simple and user-friendly interface.
 
 ---
 
-## ✨ Key Features
+# ✨ Key Features
 
 🔹 Four-Class Sentiment Classification
 
-🔹 Real-Time Text Analysis
+🔹 Real-Time Text Sentiment Prediction
 
-🔹 AI-Powered Prediction Engine
+🔹 Machine Learning Powered Analysis
+
+🔹 NLP-Based Text Processing
 
 🔹 Interactive Analytics Dashboard
 
 🔹 Sentiment Distribution Visualization
 
-🔹 NLP-Based Text Processing
-
 🔹 User-Friendly Interface
 
-🔹 Fast and Accurate Predictions
+🔹 Fast AI Predictions
 
-🔹 Business Insight Generation
-
-🔹 Modern Responsive Design
+🔹 Insight Generation from Text Data
 
 ---
 
-## 🧠 Machine Learning Pipeline
+# 🧠 Machine Learning Pipeline
 
-The sentiment analysis workflow follows a structured machine learning pipeline:
+The project follows a complete Natural Language Processing workflow:
 
-### 1️⃣ Data Collection
-Large-scale sentiment datasets are collected and prepared for analysis.
+## 1️⃣ Data Collection
 
-### 2️⃣ Data Preprocessing
-Text is cleaned and normalized by removing noise, punctuation, special characters, and irrelevant information.
+A large-scale sentiment dataset containing multiple sentiment classes is collected and prepared.
 
-### 3️⃣ Feature Extraction
-TF-IDF Vectorization converts textual information into numerical representations suitable for machine learning algorithms.
+## 2️⃣ Text Preprocessing
 
-### 4️⃣ Model Training
-Machine learning models learn patterns from historical sentiment data and establish relationships between text and sentiment labels.
+Raw text is cleaned by:
 
-### 5️⃣ Sentiment Prediction
-Incoming text is processed through the trained pipeline and classified into one of the four sentiment categories.
+- Removing unnecessary characters
+- Handling special symbols
+- Removing noise
+- Normalizing text data
 
-### 6️⃣ Visualization & Insights
-Predictions are displayed through an interactive dashboard that provides clear and actionable insights.
+## 3️⃣ Feature Extraction
+
+TF-IDF Vectorization converts textual information into numerical features that machine learning algorithms can understand.
+
+## 4️⃣ Model Training
+
+Machine learning algorithms learn patterns between text features and sentiment labels.
+
+## 5️⃣ Prediction
+
+User input text is processed through the trained model pipeline and classified into:
+
+Positive, Negative, Neutral, or Irrelevant categories.
+
+## 6️⃣ Visualization
+
+The dashboard presents sentiment results through interactive charts and analytics.
 
 ---
 
-## 📊 Sentiment Categories
+# 📊 Sentiment Categories
 
 | Sentiment | Description |
 |------------|------------|
-| Positive | Indicates satisfaction, appreciation, happiness, or favorable opinions |
-| Negative | Represents criticism, dissatisfaction, frustration, or unfavorable opinions |
-| Neutral | Contains objective information without strong emotional expression |
-| Irrelevant | Content unrelated to sentiment analysis objectives |
+| 😊 Positive | Shows happiness, appreciation, satisfaction, or favorable opinions |
+| 😡 Negative | Represents criticism, complaints, frustration, or dissatisfaction |
+| 😐 Neutral | Contains factual information without strong emotional expressions |
+| 🚫 Irrelevant | Text unrelated to sentiment analysis objectives |
 
 ---
 
-## 🎯 Applications
+# 🎯 Applications
 
-### 📈 Business Intelligence
-Monitor customer satisfaction and brand perception.
+## 📈 Business Intelligence
 
-### 💬 Social Media Analytics
-Analyze public reactions and trending discussions.
+Analyze customer satisfaction and brand perception.
 
-### 🛍 Customer Feedback Analysis
-Understand customer opinions and improve services.
+## 💬 Social Media Analytics
 
-### 📊 Market Research
-Measure audience sentiment toward products and campaigns.
+Understand public reactions and trending discussions.
 
-### 🎓 Academic Research
-Support studies involving sentiment mining and opinion analysis.
+## 🛍 Customer Feedback Analysis
 
-### 📰 Public Opinion Monitoring
-Track public sentiment regarding events and topics.
+Identify customer opinions and improve services.
+
+## 📊 Market Research
+
+Analyze audience response toward products and campaigns.
+
+## 🎓 Academic Research
+
+Support research related to opinion mining and NLP.
 
 ---
 
-## 🔬 Technologies Used
+# 🔬 Technologies Used
 
 <p align="center">
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/NLP-4CAF50?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Natural%20Language%20Processing-4CAF50?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/TF--IDF-2196F3?style=for-the-badge"/>
 
@@ -129,57 +179,67 @@ Track public sentiment regarding events and topics.
 
 </p>
 
+
 ---
 
-## 🌟 Project Highlights
+# 🌟 Project Highlights
 
-✅ AI-Powered Sentiment Classification
+✅ AI-Based Sentiment Classification System
 
-✅ Four-Class Prediction System
+✅ Four-Class Sentiment Prediction
+
+✅ Machine Learning NLP Pipeline
 
 ✅ Real-Time Text Analysis
 
-✅ Interactive Dashboard
+✅ Interactive Dashboard Experience
 
-✅ Modern User Experience
+✅ Data-Driven Sentiment Insights
 
-✅ Machine Learning Driven Insights
-
-✅ NLP-Based Processing Pipeline
-
-✅ Scalable Architecture
+✅ Modern AI Application Design
 
 ---
 
-## 📌 Future Enhancements
+# 🚀 Future Enhancements
 
-- Real-Time Social Media Integration
-- Advanced Deep Learning Models
+- Real-Time Social Media API Integration
+- Deep Learning Based Sentiment Models
 - Multi-Language Sentiment Analysis
 - Automated Trend Detection
-- Enhanced Visualization Modules
-- Real-Time Streaming Analytics
-- Predictive Sentiment Forecasting
+- Advanced Visualization
+- Streaming Sentiment Analytics
+- Sentiment Forecasting Models
 
 ---
 
-## 🤝 Contribution
+# 🤝 Contribution
 
-Contributions, suggestions, and improvements are always welcome.
+Contributions, suggestions, and improvements are welcome.
 
-Feel free to fork the repository, raise issues, and submit pull requests.
+Feel free to fork this repository, raise issues, and submit pull requests.
 
 ---
 
-## ⭐ Support
+# ⭐ Support
 
 If you found this project useful, consider giving it a ⭐ on GitHub.
 
-It helps support future development and encourages continuous improvements.
+Your support motivates continuous improvement and development.
 
 ---
 
 <p align="center">
-  <b>🚀 SentiScope AI</b><br>
-  Transforming Text Into Actionable Sentiment Insights
+
+<b>🚀 SentiScope AI</b>
+
+<br>
+
+Transforming Text Into Actionable Sentiment Insights
+
+<br><br>
+
+Developed by  
+<b>Geethanjali M</b>  
+B.E. Artificial Intelligence
+
 </p>
