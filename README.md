@@ -8,12 +8,6 @@ AI-Powered Sentiment Analysis Platform using Machine Learning & Natural Language
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=AI+Powered+Sentiment+Analysis;Machine+Learning+%2B+NLP;Positive+%7C+Negative+%7C+Neutral+%7C+Irrelevant;Interactive+Analytics+Dashboard;Built+for+Real-World+Sentiment+Insights" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/github/stars/GeethanjaliM25/SentiScope_Analysis?style=for-the-badge" />
-  <img src="https://img.shields.io/github/forks/GeethanjaliM25/SentiScope_Analysis?style=for-the-badge" />
-  <img src="https://img.shields.io/github/license/GeethanjaliM25/SentiScope_Analysis?style=for-the-badge" />
-  <img src="https://img.shields.io/github/repo-size/GeethanjaliM25/SentiScope_Analysis?style=for-the-badge" />
-</p>
 
 ---
 
