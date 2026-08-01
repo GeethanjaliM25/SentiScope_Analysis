@@ -24,9 +24,7 @@ AI-Powered Sentiment Analysis Platform using Machine Learning & Natural Language
 ---
 
 🚀 Experience the SentiScope AI platform in action:
-
-<br><br>
-
+<br>
 <a href="http://localhost:8080/">
 <img src="https://img.shields.io/badge/Launch%20SentiScope%20AI-Live%20Demo-36BCF7?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
