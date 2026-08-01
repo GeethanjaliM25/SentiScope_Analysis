@@ -1,301 +1,191 @@
-# Sentient Insights
+<h1 align="center">🚀 SentiScope AI</h1>
 
-Build a professional, production-ready AI-powered Twitter Sentiment Analysis Platform using React, TypeScript, Tailwind CSS, Supabase, and Python FastAPI.
+<h3 align="center">
+AI-Powered Sentiment Analysis Platform using Machine Learning & Natural Language Processing
+</h3>
 
-Project Name:
-SentiScope AI – Enterprise Sentiment Intelligence Platform
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=AI+Powered+Sentiment+Analysis;Machine+Learning+%2B+NLP;Positive+%7C+Negative+%7C+Neutral+%7C+Irrelevant;Interactive+Analytics+Dashboard;Built+for+Real-World+Sentiment+Insights" alt="Typing SVG" />
+</p>
 
-Objective:
-Develop an end-to-end web application that enables businesses, marketing teams, customer support teams, and analysts to perform real-time sentiment analysis on social media and uploaded datasets using a trained machine learning model.
+<p align="center">
+  <img src="https://img.shields.io/github/stars/GeethanjaliM25/SentiScope_Analysis?style=for-the-badge" />
+  <img src="https://img.shields.io/github/forks/GeethanjaliM25/SentiScope_Analysis?style=for-the-badge" />
+  <img src="https://img.shields.io/github/license/GeethanjaliM25/SentiScope_Analysis?style=for-the-badge" />
+  <img src="https://img.shields.io/github/repo-size/GeethanjaliM25/SentiScope_Analysis?style=for-the-badge" />
+</p>
 
-Authentication Module:
+---
 
-Secure Login Page
+## 🎯 About The Project
 
-User Registration
+SentiScope AI is an intelligent sentiment analysis platform designed to classify textual content into four sentiment categories:
 
-Forgot Password
+- 😊 Positive
+- 😡 Negative
+- 😐 Neutral
+- 🚫 Irrelevant
 
-Remember Me
+The platform leverages Machine Learning and Natural Language Processing techniques to analyze user-provided text and generate accurate sentiment predictions. It transforms raw textual data into meaningful insights that can assist businesses, researchers, and analysts in understanding public opinion and customer feedback.
 
-Role-based access (Admin, Analyst, Viewer)
+The system combines predictive analytics with an interactive dashboard, enabling users to visualize sentiment trends, distributions, and overall sentiment performance in a user-friendly environment.
 
-User Profile Management
+---
 
-Session Management
+## ✨ Key Features
 
-Dashboard Module:
-Create a modern enterprise dashboard displaying:
+🔹 Four-Class Sentiment Classification
 
-Total Analyses Performed
+🔹 Real-Time Text Analysis
 
-Positive Sentiment Count
+🔹 AI-Powered Prediction Engine
 
-Negative Sentiment Count
+🔹 Interactive Analytics Dashboard
 
-Neutral Sentiment Count
+🔹 Sentiment Distribution Visualization
 
-Irrelevant Sentiment Count
+🔹 NLP-Based Text Processing
 
-Sentiment Distribution Pie Chart
+🔹 User-Friendly Interface
 
-Sentiment Trend Graph
+🔹 Fast and Accurate Predictions
 
-Recent Analysis History
+🔹 Business Insight Generation
 
-Dataset Upload Statistics
+🔹 Modern Responsive Design
 
-Model Performance Metrics
+---
 
-Accuracy Card (81.26%)
+## 🧠 Machine Learning Pipeline
 
-Most Active Topics
+The sentiment analysis workflow follows a structured machine learning pipeline:
 
-Real-Time Text Analysis:
-Provide a text input area where users can:
+### 1️⃣ Data Collection
+Large-scale sentiment datasets are collected and prepared for analysis.
 
-Enter tweets
+### 2️⃣ Data Preprocessing
+Text is cleaned and normalized by removing noise, punctuation, special characters, and irrelevant information.
 
-Enter customer reviews
+### 3️⃣ Feature Extraction
+TF-IDF Vectorization converts textual information into numerical representations suitable for machine learning algorithms.
 
-Enter social media comments
+### 4️⃣ Model Training
+Machine learning models learn patterns from historical sentiment data and establish relationships between text and sentiment labels.
 
-Enter product feedback
+### 5️⃣ Sentiment Prediction
+Incoming text is processed through the trained pipeline and classified into one of the four sentiment categories.
 
-Output should include:
+### 6️⃣ Visualization & Insights
+Predictions are displayed through an interactive dashboard that provides clear and actionable insights.
 
-Predicted Sentiment
+---
 
-Confidence Score
+## 📊 Sentiment Categories
 
-Sentiment Category
+| Sentiment | Description |
+|------------|------------|
+| Positive | Indicates satisfaction, appreciation, happiness, or favorable opinions |
+| Negative | Represents criticism, dissatisfaction, frustration, or unfavorable opinions |
+| Neutral | Contains objective information without strong emotional expression |
+| Irrelevant | Content unrelated to sentiment analysis objectives |
 
-Topic Extraction
+---
 
-Keyword Extraction
+## 🎯 Applications
 
-Risk Indicator
+### 📈 Business Intelligence
+Monitor customer satisfaction and brand perception.
 
-Business Insight Summary
+### 💬 Social Media Analytics
+Analyze public reactions and trending discussions.
 
-CSV Dataset Analysis:
-Allow users to upload CSV files.
+### 🛍 Customer Feedback Analysis
+Understand customer opinions and improve services.
 
-Requirements:
+### 📊 Market Research
+Measure audience sentiment toward products and campaigns.
 
-Auto-detect text column
+### 🎓 Academic Research
+Support studies involving sentiment mining and opinion analysis.
 
-Preview uploaded dataset
+### 📰 Public Opinion Monitoring
+Track public sentiment regarding events and topics.
 
-Perform sentiment prediction on all records
+---
 
-Store results in database
+## 🔬 Technologies Used
 
-Export analyzed dataset
+<p align="center">
 
-Download results as CSV
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-Generated columns:
+<img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge"/>
 
-Original Text
+<img src="https://img.shields.io/badge/NLP-4CAF50?style=for-the-badge"/>
 
-Predicted Sentiment
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 
-Confidence Score
+<img src="https://img.shields.io/badge/TF--IDF-2196F3?style=for-the-badge"/>
 
-Category
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 
-Keywords
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 
-Word Cloud Module:
-Generate:
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
 
-Overall Word Cloud
+</p>
 
-Positive Word Cloud
+---
 
-Negative Word Cloud
+## 🌟 Project Highlights
 
-Neutral Word Cloud
+✅ AI-Powered Sentiment Classification
 
-Most Frequent Keywords
+✅ Four-Class Prediction System
 
-Top 20 Trending Words
+✅ Real-Time Text Analysis
 
-Visualization Module:
-Provide:
+✅ Interactive Dashboard
 
-Pie Charts
+✅ Modern User Experience
 
-Bar Charts
+✅ Machine Learning Driven Insights
 
-Line Charts
+✅ NLP-Based Processing Pipeline
 
-Sentiment Distribution Graphs
+✅ Scalable Architecture
 
-Topic Frequency Charts
+---
 
-Word Frequency Charts
+## 📌 Future Enhancements
 
-Trend Analytics Dashboard
+- Real-Time Social Media Integration
+- Advanced Deep Learning Models
+- Multi-Language Sentiment Analysis
+- Automated Trend Detection
+- Enhanced Visualization Modules
+- Real-Time Streaming Analytics
+- Predictive Sentiment Forecasting
 
-Business Intelligence Features:
+---
 
-Identify customer pain points
+## 🤝 Contribution
 
-Detect brand reputation issues
+Contributions, suggestions, and improvements are always welcome.
 
-Highlight trending topics
+Feel free to fork the repository, raise issues, and submit pull requests.
 
-Detect emerging complaints
+---
 
-Identify positive customer feedback
+## ⭐ Support
 
-Generate business recommendations automatically
+If you found this project useful, consider giving it a ⭐ on GitHub.
 
-Model Integration:
-Backend must load:
+It helps support future development and encourages continuous improvements.
 
-final_sentiment_model.pkl
+---
 
-tfidf.pkl
-
-label_encoder.pkl
-
-Prediction Flow:
-User Input
-→ Text Cleaning
-→ TF-IDF Transformation
-→ Logistic Regression Model
-→ Sentiment Prediction
-→ Dashboard Visualization
-
-Admin Panel:
-
-Manage Users
-
-View Uploaded Datasets
-
-View Analysis Reports
-
-Delete Records
-
-Monitor System Usage
-
-Download Reports
-
-Reports Module:
-Generate downloadable:
-
-PDF Reports
-
-CSV Reports
-
-Executive Summary Reports
-
-Monthly Analytics Reports
-
-UI Requirements:
-
-Modern SaaS Design
-
-Professional Sidebar Navigation
-
-Responsive Layout
-
-Dark Mode
-
-Light Mode
-
-Mobile Friendly
-
-Industry Standard Design
-
-Attractive Analytics Cards
-
-Professional Charts and Graphs
-
-Navigation Menu:
-Dashboard
-Real-Time Analysis
-Dataset Analysis
-Word Cloud
-Reports
-Analytics
-Model Information
-Settings
-Profile
-
-Model Information Page:
-Display:
-
-Dataset Size
-
-Preprocessing Steps
-
-TF-IDF Feature Extraction
-
-Logistic Regression Model
-
-Hyperparameter Tuning Results
-
-Final Accuracy: 81.26%
-
-Confusion Matrix
-
-Classification Report
-
-Future Scope Section:
-
-Live Twitter API Integration
-
-Multi-language Sentiment Analysis
-
-Deep Learning Models (BERT)
-
-Real-Time Monitoring Dashboard
-
-Customer Feedback Intelligence
-
-Deployment Requirements:
-
-Frontend: Lovable React Application
-
-Backend: FastAPI
-
-Database: Supabase
-
-Authentication: Supabase Auth
-
-Charts: Recharts
-
-Word Cloud: React WordCloud
-
-File Storage: Supabase Storage
-
-Deployment: Vercel
-
-The final application should look like a professional enterprise SaaS platform used by marketing teams, customer support teams, brand analysts, and business intelligence professionals.
-
-This project was built with [Lovable](https://lovable.dev).
-
-**Live app**: https://sentiment-whisperer-73.lovable.app
-
-## Build with Lovable
-
-Continue developing this project in the [Lovable editor](https://lovable.dev/projects/2dec647b-04a5-4b38-b0dd-b5d9ef8e2ed4).
-
-- **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: every change made in Lovable is committed straight to this repository.
-- **Full ownership**: this code is yours. Push to `main` on GitHub and your changes sync back into Lovable, ready for your next prompt.
-
-## Development
-
-Prefer working locally? You need Node.js and npm — [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
-
-```sh
-git clone <this-repository-url>
-cd <repository-name>
-npm i
-npm run dev
-```
+<p align="center">
+  <b>🚀 SentiScope AI</b><br>
+  Transforming Text Into Actionable Sentiment Insights
+</p>
