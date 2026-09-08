@@ -42,7 +42,7 @@ AI-Powered Sentiment Analysis Platform using Machine Learning & Natural Language
 
 ---
 
-# 🎯 About The Project
+# 🎯 About The Project 
 
 SentiScope AI is an intelligent sentiment analysis platform designed to classify textual content into four sentiment categories:
 
