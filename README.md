@@ -1,7 +1,7 @@
 <h1 align="center">🚀 SentiScope AI</h1>
 
 <h3 align="center">
-AI-Powered Sentiment Analysis Platform using Machine Learning & Natural Language Processing. 
+AI-Powered Sentiment Analysis Platform using Machine Learning & Natural Language Processing.  
 </h3>
 
 <p align="center">
